@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundScree4", "SoundScree4\SoundScree4.csproj", "{B5615E91-30BB-437B-80E9-A4288FE7C847}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5615E91-30BB-437B-80E9-A4288FE7C847}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5615E91-30BB-437B-80E9-A4288FE7C847}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5615E91-30BB-437B-80E9-A4288FE7C847}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5615E91-30BB-437B-80E9-A4288FE7C847}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
