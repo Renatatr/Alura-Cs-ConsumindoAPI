@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\renata.trintin\\RiderProjects\\SoundScreen4\\SoundScree4\\SoundScree4.csproj",
-      "projectName": "SoundScree4",
-      "projectPath": "C:\\Users\\renata.trintin\\RiderProjects\\SoundScreen4\\SoundScree4\\SoundScree4.csproj",
+      "projectUniqueName": "C:\\Users\\renata.trintin\\RiderProjects\\SoundScreen4\\SS4\\SS4.csproj",
+      "projectName": "SS4",
+      "projectPath": "C:\\Users\\renata.trintin\\RiderProjects\\SoundScreen4\\SS4\\SS4.csproj",
       "packagesPath": "C:\\Users\\renata.trintin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\renata.trintin\\RiderProjects\\SoundScreen4\\SoundScree4\\obj\\",
+      "outputPath": "C:\\Users\\renata.trintin\\RiderProjects\\SoundScreen4\\SS4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\renata.trintin\\AppData\\Roaming\\NuGet\\NuGet.Config"

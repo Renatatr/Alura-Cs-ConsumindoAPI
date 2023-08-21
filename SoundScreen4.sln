@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundScree4", "SoundScree4\SoundScree4.csproj", "{B5615E91-30BB-437B-80E9-A4288FE7C847}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SS4", "SS4\SS4.csproj", "{B5615E91-30BB-437B-80E9-A4288FE7C847}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
