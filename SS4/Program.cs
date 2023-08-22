@@ -1,4 +1,5 @@
 ﻿using System.Text.Json;
+using SS4.Filtros;
 using SS4.Modelos;
 
 using (HttpClient client = new HttpClient())
@@ -12,7 +13,10 @@ using (HttpClient client = new HttpClient())
       //  LinqFilter.FiltrarArtistaPorGeneroMusica(musicas, "blues");
       //  LinqFilter.FiltrarMusicasPorArtista(musicas, "U2");
       //  LinqFilter.FiltrarMusicasPorAno(musicas, "2012");
-
+      LinqFilter.FiltrarMusicasPorTonalidade(musicas,"C#");
+      
+        musicas[3].ExibirDetalhesDaMusica();
+        
         var musicasPreferidasRenata = new MusicasPreferidas("RENATA");
         musicasPreferidasRenata.AdicionarMusicasFavoritas(musicas[1]);
         musicasPreferidasRenata.AdicionarMusicasFavoritas(musicas[11]);
